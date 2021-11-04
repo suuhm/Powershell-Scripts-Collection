@@ -1,8 +1,8 @@
 # Powershell-Scripts-Collection
 My Collection of some powershell Scripts. More coming soon.
 
-# PWSH Find Replace Recusrive Strings in Files and Dirs v0.1
-## Find and Replace Strings in Files / Folders
+## PWSH Find Replace Recusrive Strings in Files and Dirs v0.1
+### Find and Replace Strings in Files / Folders
 
 ```
 __________________________________________________________
