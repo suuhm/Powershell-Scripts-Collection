@@ -1,4 +1,4 @@
-# Powershell-Scripts-Collection
+# Powershell-Scripts-Collection - GUI EDIT
 My Collection of some powershell Scripts. More coming soon.
 
 ## PWSH Find Replace Recusrive Strings in Files and Dirs v0.1
