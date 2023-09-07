@@ -20,6 +20,10 @@ PS G:\> .\recursive-string-replace.ps1 -dir_filter "C:\Dreamcast\PAL\Src" -file_
 
 ```
 
-## WLMS Disbaler
+## WLMS Disabler
 
-### Just Doewnload and Unzip file and rund wlms-disbaler.bat as Admin
+### Just Download and Unzip file and rund wlms-disbaler.bat as Admin
+
+![grafik](https://github.com/suuhm/Powershell-Scripts-Collection/assets/11504990/7031c483-8a98-4dc2-b67f-ef7d51632107)
+
+
