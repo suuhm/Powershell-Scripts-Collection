@@ -1,4 +1,4 @@
-# Powershell-Scripts-Collection
+# Powershell/batch-Scripts-Collection
 My Collection of some powershell Scripts. More coming soon.
 
 ## PWSH Find Replace Recusrive Strings in Files and Dirs v0.1
@@ -19,3 +19,7 @@ Usage: .\recursive-string-replace.ps1 -dir_filter 'G:\' -file_filter '*.txt' -fi
 PS G:\> .\recursive-string-replace.ps1 -dir_filter "C:\Dreamcast\PAL\Src" -file_filter '*.cpp' -find_string 'int var=34' -replace_string 'char *str'
 
 ```
+
+## WLMS Disbaler
+
+### Just Doewnload and Unzip file and rund wlms-disbaler.bat as Admin
